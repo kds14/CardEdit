@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Cards>
+	<Card>
+		<Id>dummy_card</Id>
+		<Name>Dummy Card</Name>
+		<Text>This is a dummy card</Text>
+	</Card>
+	<Card collectable="true">
+		<Id>mystic_attainment</Id>
+		<Name>Mystic Attainment</Name>
+		<Text>Draw 2 cards</Text>
+		<ImageIndex>0</ImageIndex>
+	</Card>
+	<Card collectable="true">
+		<Id>essence_cleave</Id>
+		<Name>Essence Cleave</Name>
+		<Text>Everyone discards 1 card</Text>
+		<ImageIndex>1</ImageIndex>
+	</Card>
+	<Card>
+		<Id>dark_energy</Id>
+		<ImageIndex>2</ImageIndex>
+	</Card>
+	<Card>
+		<Id>light_energy</Id>
+		<ImageIndex>3</ImageIndex>
+	</Card>
+	<Card>
+		<Id>arcane_energy</Id>
+		<ImageIndex>4</ImageIndex>
+	</Card>
+</Cards>
